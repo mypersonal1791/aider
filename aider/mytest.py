@@ -1,1 +1,1 @@
-Hello, this is the command line output
+print("Hello, this is the command line output")
